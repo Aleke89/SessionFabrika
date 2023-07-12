@@ -1,0 +1,11 @@
+
+E
+java:S16046"(Make this anonymous inner class a lambda(ÏŠÆó8¨’ÍÈ‹1
+m	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ
+m	java:S116"SRename this field "clm_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùáì…ùÿÿÿÿ
+o	java:S116"ZRename this field "clm_finish_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÈÆÎ
+k	java:S116!"VRename this field "clm_manager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊäÍË
+i	java:S116$"URename this field "clm_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½‘x
+j	java:S116'"URename this field "clm_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÂÃ
+m	java:S116*"XRename this field "clm_zakazchik" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷¨
+s	java:S1160"YRename this field "txt_all_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÀôéûÿÿÿÿ

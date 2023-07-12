@@ -1,0 +1,13 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(†¸‹Ñ
+E
+java:S1604)"(Make this anonymous inner class a lambda(ó‹Ç8ŸœÒÇ‹1
+y	java:S116"dRename this field "btn_infor_about_materials" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‘¬Ï
+	java:S116"^Rename this field "btn_inventerization" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¶×‹şÿÿÿÿ8¢íĞÇ‹1
+x	java:S116"cRename this field "info_storage_anchor_pane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ™ù
+|	java:S116"gRename this field "txt_all_data_about_materials" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈ
+d
+java:S1126""BReplace this if-then-else statement by a single method invocation.(ĞÌ‹™ùÿÿÿÿ8Ë¾¨Å‹1
+?
+java:S1068")Remove this unused "click" private field.(íŞ‡€

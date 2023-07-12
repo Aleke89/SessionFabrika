@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.sessionfabrika.OtchetMController">
+   <children>
+      <AnchorPane prefHeight="73.0" prefWidth="600.0" style="-fx-background-color: #e0a9af;">
+         <children>
+            <ImageView fitHeight="58.0" fitWidth="343.0" layoutX="187.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../Shveinaya%20fabrika/logo-03.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="btn_back" layoutX="14.0" layoutY="24.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="80.0" text="Back" />
+         </children>
+      </AnchorPane>
+      <TableView fx:id="table_view" layoutX="14.0" layoutY="84.0" prefHeight="282.0" prefWidth="250.0">
+        <columns>
+          <TableColumn fx:id="clm__id" prefWidth="31.20001220703125" text="id" />
+          <TableColumn fx:id="clm_name" prefWidth="99.199951171875" text="name" />
+            <TableColumn fx:id="clm_amount" prefWidth="118.4" text="amount" />
+        </columns>
+      </TableView>
+      <Text fx:id="txt_qadrat" layoutX="300.0" layoutY="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="00" wrappingWidth="220.0">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

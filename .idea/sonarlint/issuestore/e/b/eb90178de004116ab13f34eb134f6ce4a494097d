@@ -1,0 +1,15 @@
+
+>
+java:S16045"(Make this anonymous inner class a lambda(ÎæºŒ
+m	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ
+m	java:S116"SRename this field "clm_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùáì…ùÿÿÿÿ
+o	java:S116"ZRename this field "clm_finish_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÈÆÎ
+k	java:S116"VRename this field "clm_manager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊäÍË
+i	java:S116"URename this field "clm_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½‘x
+j	java:S116""URename this field "clm_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÂÃ
+m	java:S116%"XRename this field "clm_zakazchik" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³÷¨
+y	java:S116+"_Rename this field "txt_furniture_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º£õâøÿÿÿÿ
+—
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©¬¦£
+3
+java:S21199"Save and re-use this "Random".(¼İÅf

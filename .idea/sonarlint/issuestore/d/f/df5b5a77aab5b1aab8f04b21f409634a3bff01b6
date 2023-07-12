@@ -1,0 +1,7 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÍß’8Û»¬È‹1
+l	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¿ï=8çâ¬È‹1
+w	java:S116"VRename this field "finish_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¡ñÿÿÿÿÿ8š¬È‹1
+^	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(ÄÍß’8ÉŠ½ì‹1
+o	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢É±Òûÿÿÿÿ8ë»¬È‹1
+i	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¿ï=8ì»¬È‹1

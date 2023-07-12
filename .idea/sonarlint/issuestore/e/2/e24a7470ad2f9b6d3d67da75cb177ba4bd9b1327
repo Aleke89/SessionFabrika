@@ -1,0 +1,14 @@
+
+>
+java:S16049"(Make this anonymous inner class a lambda(ÏŠÆó
+J
+java:S1604?"(Make this anonymous inner class a lambda(êŸ›´ıÿÿÿÿ8èÏØë‹1
+~	java:S116"]Rename this field "anchor_pane_pechat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë—Ò—üÿÿÿÿ8×İŞë‹1
+t	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ8ØİŞë‹1
+p	java:S116"URename this field "btn_pechat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í…è8ØİŞë‹1
+n	java:S116 "TRename this field "img_fifth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÄ–Æşÿÿÿÿ
+n	java:S116#"TRename this field "img_first" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®·Õéøÿÿÿÿ
+o	java:S116&"URename this field "img_fourth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëü‚¿ùÿÿÿÿ
+j	java:S116)"URename this field "img_second" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áß½‡
+i	java:S116,"TRename this field "img_sixth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞîºŸ
+i	java:S116/"TRename this field "img_third" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìà

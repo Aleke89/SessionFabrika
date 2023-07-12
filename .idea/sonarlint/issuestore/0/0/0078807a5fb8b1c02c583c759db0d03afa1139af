@@ -1,0 +1,12 @@
+
+>
+java:S1604)"(Make this anonymous inner class a lambda(ÏŠÆó
+C
+java:S1604/"(Make this anonymous inner class a lambda(÷ĞÚúÿÿÿÿ
+m	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ
+u	java:S116"[Rename this field "btn_registration" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¡™ıÿÿÿÿ
+m	java:S116"SRename this field "chc_role" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úåƒéşÿÿÿÿ
+i	java:S116"TRename this field "txf_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÛ”Ş
+q	java:S116 "WRename this field "txf_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úƒŒĞùÿÿÿÿ
+S
+java:S1128	"7Remove this unused import 'javafx.scene.control.Alert'.(ÊÇê:8å™´Á‹1

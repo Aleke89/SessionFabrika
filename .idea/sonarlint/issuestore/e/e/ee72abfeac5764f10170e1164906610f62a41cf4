@@ -1,0 +1,15 @@
+
+C
+java:S1604L"(Make this anonymous inner class a lambda(³Ä±Èşÿÿÿÿ
+C
+java:S1604W"(Make this anonymous inner class a lambda(¢§ÜÃùÿÿÿÿ
+r	java:S116"XRename this field "chc_furnitura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¤Ôİùÿÿÿÿ
+r	java:S116 "XRename this field "chc_ocontovka" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü÷·ìøÿÿÿÿ
+h	java:S116#"SRename this field "chc_tkan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’™¸
+j	java:S116&"URename this field "txf_razmer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âîö
+p	java:S116)"VRename this field "txf_shirina" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š­ÿ¾üÿÿÿÿ
+p	java:S116,"[Rename this field "txf_svoi_variant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÍ—³
+o	java:S116/"URename this field "txf_vysota" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¹¦˜üÿÿÿÿ
+p	java:S1161"[Rename this field "btn_svoi_variant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õ½Ë
+j	java:S1163"URename this field "btn_finish" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äß“
+i	java:S1165"ORename this field "Vbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÚØŸúÿÿÿÿ

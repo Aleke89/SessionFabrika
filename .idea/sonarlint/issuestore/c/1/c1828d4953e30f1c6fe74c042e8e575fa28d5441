@@ -1,0 +1,10 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(õë±üÿÿÿÿ
+E
+java:S1604'"(Make this anonymous inner class a lambda(ÏŠÆó8³ÿ÷Ç‹1
+k	java:S116"VRename this field "btn_setData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·Ê¹
+	java:S116"eRename this field "txt_percentage_getting_out" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÔĞÒûÿÿÿÿ
+v	java:S116"\Rename this field "txt_price_from_db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çª¸øÿÿÿÿ
+r	java:S116"]Rename this field "txt_price_from_db1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ı–
+t	java:S116"SRename this field "btn_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶–Ëıÿÿÿÿ8öÌ÷Ç‹1
